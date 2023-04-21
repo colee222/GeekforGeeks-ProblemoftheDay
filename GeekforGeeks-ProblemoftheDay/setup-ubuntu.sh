@@ -6,7 +6,7 @@
 #sudo apt-get update
 #sudo apt-get install git
 #git init
-#git remote add origin https://github.com/colee222/GeekforGeeks-ProblemoftheDay.git
+git remote add origin https://github.com/colee222/GeekforGeeks-ProblemoftheDay.git
 
 #sudo apt-get install software-properties-common
 #sudo add-apt-repository ppa:deadsnakes/ppa
