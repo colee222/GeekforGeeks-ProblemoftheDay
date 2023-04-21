@@ -27,7 +27,7 @@ git config --global user.password "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"
 git add . 
 git commit -m "first commit from new install"
 git branch -M main
-# git pull
+git pull origin main
 git checkout -b main
 git push -u origin main
  
