@@ -29,5 +29,5 @@ git commit -m "first commit from new install"
 git branch -M main
 # git pull
 git checkout -b main
-git push origin main
+git push -u origin main
  
