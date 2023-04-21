@@ -6,7 +6,7 @@
 #sudo apt-get update
 #sudo apt-get install git
 #git init
-git remote add origin https://github.com/colee222/GeekforGeeks-ProblemoftheDay.git
+# git remote add origin https://github.com/colee222/GeekforGeeks-ProblemoftheDay.git
 
 #sudo apt-get install software-properties-common
 #sudo add-apt-repository ppa:deadsnakes/ppa
@@ -23,7 +23,11 @@ git remote add origin https://github.com/colee222/GeekforGeeks-ProblemoftheDay.g
 
 git config --global user.email "nfsulli@gmail.com"
 git config --global user.name "colee222"
+git config --global user.password "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"
 git add . 
 git commit -m "first commit from new install"
-git push -u add origin main
+# git branch -M main
+# git pull
+# git checkout -b main
+git push origin main
  
