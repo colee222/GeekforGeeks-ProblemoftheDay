@@ -21,13 +21,15 @@
 
 # sudo snap install jupyter
 
-git config --global user.email "nfsulli@gmail.com"
-git config --global user.name "colee222"
-git config --global user.password "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"
-git add . 
-git commit -m "first commit from new install"
-git branch -M main
-git pull origin main
-git checkout -b main
-git push -u origin main
+# git config --global credential.helper store
+# git config --global credential.helper cache
+# git config --global user.email "nfsulli@gmail.com"
+# git config --global user.name "colee222"
+# git config --global user.password "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"
+# git add . 
+# git commit -m "first commit from new install"
+# git branch -M main
+# git pull origin main --allow-unrelated-histories
+# git checkout -b main
+# git push -u origin main
  
